@@ -1,0 +1,6 @@
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\bin\Debug\DTO.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\bin\Debug\DTO.pdb
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\obj\Debug\DTO.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DTO\obj\Debug\DTO.pdb

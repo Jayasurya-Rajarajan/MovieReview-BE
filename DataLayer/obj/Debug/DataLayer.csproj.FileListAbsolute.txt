@@ -1,0 +1,12 @@
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\DataLayer.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\DataLayer.pdb
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\EntityFramework.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\EntityFramework.xml
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\obj\Debug\DataLayer.dll
+D:\Work\Arcadix\MovieReview API\MovieReview\DataLayer\obj\Debug\DataLayer.pdb

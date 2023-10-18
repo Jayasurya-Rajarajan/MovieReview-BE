@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieReview", "MovieReview\MovieReview.csproj", "{759F4361-5CB5-445B-940C-99818F46CA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{1A9C45B4-485D-433E-9387-5C6CD089B958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{60CE5E7D-6656-4061-8733-A9A1F419289A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759F4361-5CB5-445B-940C-99818F46CA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759F4361-5CB5-445B-940C-99818F46CA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759F4361-5CB5-445B-940C-99818F46CA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759F4361-5CB5-445B-940C-99818F46CA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9C45B4-485D-433E-9387-5C6CD089B958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9C45B4-485D-433E-9387-5C6CD089B958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9C45B4-485D-433E-9387-5C6CD089B958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9C45B4-485D-433E-9387-5C6CD089B958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CE5E7D-6656-4061-8733-A9A1F419289A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CE5E7D-6656-4061-8733-A9A1F419289A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CE5E7D-6656-4061-8733-A9A1F419289A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CE5E7D-6656-4061-8733-A9A1F419289A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49496223-5DFE-4F22-9432-1519214943C3}
+	EndGlobalSection
+EndGlobal
